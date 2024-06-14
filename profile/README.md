@@ -8,7 +8,7 @@
 <!-- Table of Contents -->
 - [About the Project](#open_book-about-the-project)
 - [Team](#wave-us)
-- [Repostory](#repostory)
+- [Repository](#repository)
   * [Cloud Computing](#cloud-cloud-computing)
   * [Machine Learning](#robot-machine-learning)
   * [Mobile Development](#iphone-mobile-development)
@@ -45,7 +45,7 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 <!--  linkedin belum  cristo -->
 
-# Repostory
+# Repository  
 | Path               | Link Repository                                                                                                                                                            | 
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Cloud Computing    | [Backend Services](https://github.com/NutriLens-Bangkit-2024/backend-services)                                                                                             |
