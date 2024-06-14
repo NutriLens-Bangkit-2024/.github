@@ -29,8 +29,22 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 </td>
 </tr>
 </table>
-
-  Our team wants to create a NutriLens application that can decipher nutritional information from packaged food and beverages. Our project aims to address the issue of unclear and inaccurate understanding of nutritional information on packaged food and beverages in Indonesia. This problem statement illustrates the increasing public awareness of the importance of a healthy lifestyle, matched by the increasing consumption of packaged food and beverages. Through investigating this research question, we sought to gain a deeper understanding of the definition of Nutri-score, the problems faced in understanding nutritional information, the public knowledge of nutritional information and Nutri-score, awareness of nutritional information and Nutri-score impact consumer decisions, the factors that influence their perceptions, the state of relevant regulations, and the stakeholders involved. We highlight the importance of understanding balanced nutrition, which is the basis for the urgency of increasing public awareness of nutritional information and Nutri-score in Indonesia. By applying scanner technology and machine learning, NutriLens will provide information regarding the nutri-score of the products. We see the NutriLens App as a potential solution but recognize its implementation challenges. By focusing on true problem-solving and adopting a design thinking approach, we hope to provide an effective solution for Indonesians to make healthier food choices. 
+<p align="justify">
+  Our team wants to create a NutriLens application that can decipher nutritional information from packaged food and 
+  beverages. Our project aims to address the issue of unclear and inaccurate understanding of nutritional information on 
+  packaged food and beverages in Indonesia. This problem statement illustrates the increasing public awareness of the 
+  importance of a healthy lifestyle, matched by the increasing consumption of packaged food and beverages. Through 
+  investigating this research question, we sought to gain a deeper understanding of the definition of Nutri-score, 
+  the problems faced in understanding nutritional information, the public knowledge of nutritional information and Nutri-score,
+  awareness of nutritional information and Nutri-score impact consumer decisions, the factors that influence their perceptions,
+  the state of relevant regulations, and the stakeholders involved. We highlight the importance of understanding balanced nutrition, 
+  which is the basis for the urgency of increasing public awareness of nutritional information and Nutri-score in Indonesia.
+  By applying scanner technology and machine learning, NutriLens will provide information regarding the nutri-score of the products. 
+  We see the NutriLens App as a potential solution but recognize its implementation challenges. 
+  By focusing on true problem-solving and adopting a design thinking approach, we hope to provide an effective solution for Indonesians to 
+  make healthier food choices. 
+</p>
+  
 
 # :wave: Us
   | ID         | NAME          | PATH               | University                  | CONTACT                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -59,8 +73,12 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   1. .
 
 ## :robot: Machine Learning
+<p align="justify">
   The NutriLens application leverages two machine learning models to predict nutrition grades from food packaging. 
-  The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs a neural network for multi-class classification.
+  The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
+  a neural network for multi-class classification.
+</p>
+  
 
   **Teach Stack**:
 1. PaddleOCR: Utilized to extract text from images of food packaging. Regex is used to filter and refine the extracted information.
