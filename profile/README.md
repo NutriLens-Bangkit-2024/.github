@@ -67,10 +67,13 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 | Mobile Development | [App](https://github.com/NutriLens-Bangkit-2024/NutriLens_App)                                                                                                                                                                    |
 ## :cloud: Cloud Computing
 
-  Description ..
+  This application uses the HAPI framework in the process of creating APIs for data processing. the storage media used are cloud storage and firestore. then in the deploy process it uses a cloud run because it feels suitable for this application (cost effective and scalable). 
   
   **Teach Stack**:
-  1. .
+  1. Hapi FrameWork: Framework that we use to create APIs in processing data needed in the application, such as registers, logins, data statistics and others.
+  2. Cloud Storage: image data storage media in this application.
+  3. FireStore: NOSQL-based storage of all data other than image data.
+  4. Cloud run: a Google Cloud service that lets you run containerized applications without managing servers. It automatically scales with traffic and supports any language or framework in a container.
 
 ## :robot: Machine Learning
 <p align="justify">
