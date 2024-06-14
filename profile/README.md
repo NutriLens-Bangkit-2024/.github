@@ -76,4 +76,4 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 
 # Special Thanks 
-  ![special-thanks](https://github.com/NutriLens-Bangkit-2024/.github/blob/d8745fc4ca8ae78a24bcde470ed42a561a775d76/profile/asset/special_thanks.png)
+  ![special-thanks](https://github.com/NutriLens-Bangkit-2024/.github/blob/25eed6899057ca7e6a3678b0a6f9f9140aeba715/profile/asset/specialthanks.png)
