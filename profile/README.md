@@ -90,10 +90,17 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 4. Docker: Docker is used to containerize the application, ensuring a consistent environment for deployment and easy scalability.
 
 ## :iphone: Mobile Development
-  Description ..
+  <p align="justify">
+    The application is developed by utilizing Android Studio and built using Kotlin from the ground up. 
+    We also utilized Figma for designing the UI of the application and implemented it using XML and some libraries
+  </p>
   
   **Teach Stack**:
-  1. .
+  1. Android Studio: Utilized as the primary IDE for the application development.
+  2. Kotlin: Used as the primary programming language on building the application.
+  3. Figma: Utilized for designing the user interface of the application.
+  4. Intent Camera: Utilized for capturing images for the application.
+  5. Retofit, Glide, MPAndroidChart,circleimageview library: Utilized for connecting the application to the api for storing and fetching data, and also for designing purposes.
 
 
 # Special Thanks 
