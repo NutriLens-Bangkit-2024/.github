@@ -1,6 +1,7 @@
-![nutrilens-logo](https://github.com/NutriLens-Bangkit-2024/.github/blob/39d9c11ccabdb3d17550d2e5e0c6e0962ef7e6f4/profile/asset/nutrilens_logo.png)
-
-<h1 align="center">NutriLens: NutriScore App for Healthy Lifestyle</h1>
+<div align="center">
+  <img src="https://github.com/NutriLens-Bangkit-2024/.github/blob/39d9c11ccabdb3d17550d2e5e0c6e0962ef7e6f4/profile/asset/nutrilens_logo.png" alt="nutrilens-logo" />
+  <h1>NutriLens: NutriScore App for Healthy Lifestyle</h1>
+</div>
 
 # :notebook_with_decorative_cover: Table of Contents
 <!-- Table of Contents -->
