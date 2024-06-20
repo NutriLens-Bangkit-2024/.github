@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NutriLens-Bangkit-2024/.github/blob/39d9c11ccabdb3d17550d2e5e0c6e0962ef7e6f4/profile/asset/nutrilens_logo.png" alt="nutrilens-logo" />
+  <img src="https://github.com/NutriLens-Bangkit-2024/.github/blob/d5cb3914a82a4c0782c5e324ae87b6584911fc56/profile/asset/logo_transparan.png" alt="nutrilens-logo" />
   <h1>NutriLens: NutriScore App for Healthy Lifestyle</h1>
 </div>
 
