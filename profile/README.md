@@ -1,8 +1,6 @@
-<div align="center">
+![nutrilens-logo](https://github.com/NutriLens-Bangkit-2024/.github/blob/39d9c11ccabdb3d17550d2e5e0c6e0962ef7e6f4/profile/asset/nutrilens_logo.png)
 
-  <h1>NutriLens: NutriScore App for Healthy Lifestyle</h1>
-
-</div>
+<h1 align="center">NutriLens: NutriScore App for Healthy Lifestyle</h1>
 
 # :notebook_with_decorative_cover: Table of Contents
 <!-- Table of Contents -->
@@ -66,28 +64,33 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 | Machine Learning   | 1. [OCR](https://github.com/NutriLens-Bangkit-2024/nutrion_grade_scanning) <br/> 2. [Grade Clasification](https://github.com/NutriLens-Bangkit-2024/nutrition_grade_model) |
 | Mobile Development | [App](https://github.com/NutriLens-Bangkit-2024/NutriLens_App)                                                                                                                                                                    |
 ## :cloud: Cloud Computing
+  <p align="justify">
+    This application uses the HAPI framework in the process of creating APIs 
+    for data processing. the storage media used are cloud storage and firestore. then in the deploy process it uses a 
+    cloud run because it feels suitable for this application (cost effective and scalable). 
+  </p>
 
-  This application uses the HAPI framework in the process of creating APIs for data processing. the storage media used are cloud storage and firestore. then in the deploy process it uses a cloud run because it feels suitable for this application (cost effective and scalable). 
-  
   **Teach Stack**:
-  1. Hapi FrameWork: Framework that we use to create APIs in processing data needed in the application, such as registers, logins, data statistics and others.
+  1. Hapi FrameWork: Framework that we use to create APIs in processing data needed in the application, such as registers, 
+      logins, data statistics and others.
   2. Cloud Storage: image data storage media in this application.
   3. FireStore: NOSQL-based storage of all data other than image data.
-  4. Cloud run: a Google Cloud service that lets you run containerized applications without managing servers. It automatically scales with traffic and supports any language or framework in a container.
+  4. Cloud run: a Google Cloud service that lets you run containerized applications without managing servers. 
+It automatically scales with traffic and supports any language or framework in a container.
 
 ## :robot: Machine Learning
-<p align="justify">
-  The NutriLens application leverages two machine learning models to predict nutrition grades from food packaging. 
-  The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
-  a neural network for multi-class classification.
-</p>
+  <p align="justify">
+    The NutriLens application leverages two machine learning models to predict nutrition grades from food packaging. 
+    The first model uses the PaddleOCR library to detect tables and extract text, while the second model employs
+    a neural network for multi-class classification.
+  </p>
   
 
   **Teach Stack**:
-1. PaddleOCR: Utilized to extract text from images of food packaging. Regex is used to filter and refine the extracted information.
-2. Neural Network: A neural network is employed to classify the nutrition grade into 5 categories.
-3. FastAPI: FastAPI is used to create a robust and scalable API for handling requests and serving the machine learning models.
-4. Docker: Docker is used to containerize the application, ensuring a consistent environment for deployment and easy scalability.
+  1. PaddleOCR: Utilized to extract text from images of food packaging. Regex is used to filter and refine the extracted information.
+  2. Neural Network: A neural network is employed to classify the nutrition grade into 5 categories.
+  3. FastAPI: FastAPI is used to create a robust and scalable API for handling requests and serving the machine learning models.
+  4. Docker: Docker is used to containerize the application, ensuring a consistent environment for deployment and easy scalability.
 
 ## :iphone: Mobile Development
   <p align="justify">
@@ -100,7 +103,8 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   2. Kotlin: Used as the primary programming language on building the application.
   3. Figma: Utilized for designing the user interface of the application.
   4. Intent Camera: Utilized for capturing images for the application.
-  5. Retofit, Glide, MPAndroidChart,circleimageview library: Utilized for connecting the application to the api for storing and fetching data, and also for designing purposes.
+  5. Retofit, Glide, MPAndroidChart,circleimageview library: Utilized for connecting the application to the api for 
+storing and fetching data, and also for designing purposes.
 
 
 # Special Thanks 
